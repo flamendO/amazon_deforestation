@@ -1,7 +1,28 @@
-Members of the group are:
+# Study of deforestation with satellite data
 
-Paco LARDY--NUGUES
-Lisa BOUTEILLER
-Pauline BOUDY
-Hugo Feidt 
+Our goal here was to detect and quantify the progress of deforestation in the Amazon forest in recent years.
+Our study will be carried out from the satellite Sentinel 2 and Earth Explorer on different zones including crop and
+arid zones.
 
+- Python code under a Notebook
+- Report available
+
+
+
+
+
+## Authors
+
+- [@fremist](https://github.com/fremist)
+-  Lisa Bouteiller
+- Pauline Boudy
+- Hugo Feidt
+
+
+
+
+## FAQ
+
+#### Where are data ?
+
+They are unfortunately not downloadable, due to the size of the file.
